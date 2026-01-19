@@ -20,6 +20,8 @@ public class Main {
         }
         System.out.println("Hello first commit");
 
+        String myWord = "This commit before rebase branch-for-rebase to master"
+
     }
 
     public Object newObject(){
