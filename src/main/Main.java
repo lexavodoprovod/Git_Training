@@ -23,6 +23,12 @@ public class Main {
         String question1 = "Who is first men on moon?;
         String question2 = "How long is earth?";
 
+
+
+    }
+
+    public void loadQuestions(){
+        String question1 = "How old are you?";
     }
 
     public Object newObject(){
