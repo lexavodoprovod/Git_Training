@@ -13,6 +13,7 @@ public class Main {
 
         int i;
 
+        System.out.println("Hello first commit");
 
     }
 
