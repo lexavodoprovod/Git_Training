@@ -29,6 +29,7 @@ public class Main {
 
     public void loadQuestions(){
         String question1 = "How old are you?";
+        String question2 = "How long is your street?"
     }
 
     public Object newObject(){
