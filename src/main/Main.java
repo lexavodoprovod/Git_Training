@@ -22,6 +22,13 @@ public class Main {
 
         String myWord = "This commit before rebase branch-for-rebase to master"
 
+        String rebase = "REBASE THIS LINES";
+
+        while(i<3){
+            i++;
+            System.out.println(rebase);
+        }
+
     }
 
     public Object newObject(){
