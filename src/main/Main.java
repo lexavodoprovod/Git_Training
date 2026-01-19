@@ -13,6 +13,11 @@ public class Main {
 
         int i;
 
+        System.out.println("Hello dev branch");
+        
+        for(int i = 0; i < 3; i++){
+            System.out.println("Just like that");
+        }
         System.out.println("Hello first commit");
 
     }
