@@ -19,6 +19,9 @@ public class Main {
             System.out.println("Just like that");
         }
         System.out.println("Hello first commit");
+        
+        String question1 = "Who is first men on moon?;
+        String question2 = "How long is earth?";
 
     }
 
