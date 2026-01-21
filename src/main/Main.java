@@ -11,7 +11,6 @@ public class Main {
         }
 
 
-        int i;
 
         System.out.println("Hello dev branch");
         
